@@ -1,0 +1,41 @@
+d:\documents\visual studio 2013\Projects\GuitarPu\GuitarPu\obj\Debug\GuitarPu.Form1.resources
+d:\documents\visual studio 2013\Projects\GuitarPu\GuitarPu\obj\Debug\GuitarPu.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\GuitarPu\GuitarPu\obj\Debug\GuitarPu.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.exe.manifest
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.application
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.exe
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.pdb
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.exe.licenses
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.exe.manifest
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.application
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.exe
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.pdb
+d:\Documents\Visual Studio 2013\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.exe.config
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.exe.config
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.exe
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.pdb
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.exe.manifest
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.application
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.exe
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.pdb
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\obj\Debug\GuitarPu.csprojResolveAssemblyReference.cache
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\obj\Debug\GuitarPu.Form1.resources
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\obj\Debug\GuitarPu.Properties.Resources.resources
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\obj\Debug\GuitarPu.csproj.GenerateResource.Cache
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.exe.licenses
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.exe.manifest
+D:\Users\Heroy\Documents\Visual Studio 2015\Projects\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.application
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.exe.config
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.exe
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.pdb
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.exe.manifest
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.application
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.exe
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\bin\Debug\吉他谱查看器.pdb
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\obj\Debug\GuitarPu.csprojResolveAssemblyReference.cache
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\obj\Debug\GuitarPu.frmMain.resources
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\obj\Debug\GuitarPu.Properties.Resources.resources
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\obj\Debug\GuitarPu.csproj.GenerateResource.Cache
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.exe.licenses
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.exe.manifest
+D:\Users\Heroy\Documents\Projects\git\GuitarPu\GuitarPu\obj\Debug\吉他谱查看器.application
